@@ -1,0 +1,14 @@
+body
+{
+  background-color: darkmagenta;
+  text-align: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: black;
+  font-style: oblique;
+}
+h1
+{
+    color: cadetblue;
+    font-size: x-large;
+    font-style: normal;
+}
